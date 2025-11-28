@@ -1,16 +1,16 @@
 ## Hi there 👋
+### I'm Vivian 🌟
 
-<!--
-**sayuri-miyano/sayuri-miyano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a newbie developer diving into the world of programming.  
+I love creating practical solutions and learning something new every day.
 
-Here are some ideas to get you started:
+- 🧩 Interested in: Web development & automation  
+- 📚 Learning path: HTML, CSS, JavaScript and Git  
+- ✨ Goal: Become confident with code and create projects that help real people
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 How to contact me:
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:saahmiyanoo@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sayobinha)
+
+Thanks for stopping by! 😊
